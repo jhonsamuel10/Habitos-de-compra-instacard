@@ -18,7 +18,7 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
 
 ## Flujo del Proyecto
 ### Carga de Datos
--Se cargan los datos proporcionados por Instacart utilizando la librería pandas para analizar los pedidos, productos y horarios de compra.
+- Se cargan los datos proporcionados por Instacart utilizando la librería pandas para analizar los pedidos, productos y horarios de compra.
 
 ### Exploración de Datos (EDA)
 - Se examinan las estadísticas descriptivas de los datos para comprender la distribución de las compras y detectar patrones como los productos más populares y las horas más comunes de compra.
