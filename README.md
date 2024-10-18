@@ -17,11 +17,13 @@ Este proyecto tiene como objetivo limpiar los datos y preparar un informe que br
 - **Jupyter Notebook**: Entorno interactivo para ejecutar y documentar el análisis.
 
 ## Flujo del Proyecto
-- **Carga de Datos**: Se cargan los datos proporcionados por Instacart utilizando la librería pandas para analizar los pedidos, productos y horarios de compra.
+### Carga de Datos
+-Se cargan los datos proporcionados por Instacart utilizando la librería pandas para analizar los pedidos, productos y horarios de compra.
 
-- **Exploración de Datos (EDA)**:
--Se examinan las estadísticas descriptivas de los datos para comprender la distribución de las compras y detectar patrones como los productos más populares y las horas más comunes de compra.
--Se analiza la cantidad de productos por pedido y la recurrencia de compras.
+### Exploración de Datos (EDA)
+- Se examinan las estadísticas descriptivas de los datos para comprender la distribución de las compras y detectar patrones como los productos más populares y las horas más comunes de compra.
+- Se analiza la cantidad de productos por pedido y la recurrencia de compras.
+
 
 ## Limpieza y Preparación de Datos:
 
